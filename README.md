@@ -1,2 +1,6 @@
 # Gradient-Descent
-This project implements gradient descent to find the line of best fit for 2-D points
+This project finds the line of best fit for 2-D points by using gradient descent.
+
+## Libraries Used
+- NumPy
+- Matplotlib
